@@ -32,6 +32,7 @@
 * You will need to set up a free Cerner Care account to complete the tutorial. Go ahead and set it up before you start. https://cernercare.com/accounts/login?returnTo=https%3A%2F%2Fcode.cerner.com%2Fdeveloper%2Fsmart-on-fhir%2Fauth%2Fcernercare%2Fcallback%3Forigin%3Dhttps%253A%252F%252Fcode.cerner.com%252Fdeveloper%252Fsmart-on-fhir%252Fapps%26_method%3Dpost
 * I used the same settings shown in the tutorial for completing the smart.js file
   * The iss: field link is given in the Cerner sandbox under the name FHIR Spec: dstu2 -
+* This tutorial uses some frameworks we have not studied: Redux, Redux-Saga, Semantic-UI. It's not necessary to know them to complete this tutorial. But it's never a bad idea to continue learning on your own.
 
 
 ## Link to repository
